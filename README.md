@@ -5,7 +5,9 @@
 ## 在线阅读地址
 在线阅读地址：https://relph1119.github.io/system-architecture-learning-notes
 
-## 学习书籍
+## 学习书籍或课程
+
+- 极客时间《如何画好架构图》（李运华）学习笔记
 - 《架构师启示录》
 
 ## 运行环境
