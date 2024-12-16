@@ -1,3 +1,10 @@
 * [目录](README.md)
     * [极客时间《如何画好架构图》（李运华）学习笔记](diagram_techniques/notes.md)
     * 《架构师启示录》
+      * [第1部分 架构认知框架](architect_revelation/ch01.md)
+      * [第2部分 架构知识模型](architect_revelation/ch02.md)
+      * [第3部分 需求与业务架构设计](architect_revelation/ch03.md)
+      * [第4部分 架构设计](architect_revelation/ch04.md)
+      * [第5部分 系统实现](architect_revelation/ch05.md)
+      * [第6部分 系统维护](architect_revelation/ch06.md)
+      * [第7部分 底层思维模式](architect_revelation/ch07.md)
