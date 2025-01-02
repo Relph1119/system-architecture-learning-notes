@@ -8,3 +8,11 @@
       * [第5部分 系统实现](architect_revelation/ch05.md)
       * [第6部分 系统维护](architect_revelation/ch06.md)
       * [第7部分 底层思维模式](architect_revelation/ch07.md)
+    * 《软件开发珠玑》
+      * [第1章 需求](software_development_pearls/ch01.md)  
+      * [第2章 设计](software_development_pearls/ch02.md)  
+      * [第3章 项目管理](software_development_pearls/ch03.md)  
+      * [第4章 文化与团队合作](software_development_pearls/ch04.md)  
+      * [第5章 质量](software_development_pearls/ch05.md)  
+      * [第6章 过程改进](software_development_pearls/ch06.md)  
+      * [第7章 后续](software_development_pearls/ch07.md)  
